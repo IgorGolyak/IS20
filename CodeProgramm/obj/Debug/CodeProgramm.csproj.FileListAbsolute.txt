@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\CodeProgramm\CodeProgramm\obj\Debug\CodeProgramm.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\CodeProgramm\CodeProgramm\obj\Debug\CodeProgramm.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\CodeProgramm\CodeProgramm\bin\Debug\CodeProgramm.exe.config
+C:\Users\golya\source\repos\CodeProgramm\CodeProgramm\bin\Debug\CodeProgramm.exe
+C:\Users\golya\source\repos\CodeProgramm\CodeProgramm\bin\Debug\CodeProgramm.pdb
+C:\Users\golya\source\repos\CodeProgramm\CodeProgramm\obj\Debug\CodeProgramm.exe
+C:\Users\golya\source\repos\CodeProgramm\CodeProgramm\obj\Debug\CodeProgramm.pdb
